@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 数据结构
-linktitle: 数据结构
+title: Homological Algebra
+linktitle: Homological Algebra
 summary: Notes on Python data structures.
 weight: 2
 icon: python
